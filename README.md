@@ -12,6 +12,6 @@ sudo make uninstall
 
 ## To clean all files except source files
 ```
-make clean-all
+sudo make clean-all
 ```
 
